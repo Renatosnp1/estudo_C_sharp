@@ -1,0 +1,16 @@
+D:\C#\aula_3\bin\Debug\net5.0\aula_3.exe
+D:\C#\aula_3\bin\Debug\net5.0\aula_3.deps.json
+D:\C#\aula_3\bin\Debug\net5.0\aula_3.runtimeconfig.json
+D:\C#\aula_3\bin\Debug\net5.0\aula_3.runtimeconfig.dev.json
+D:\C#\aula_3\bin\Debug\net5.0\aula_3.dll
+D:\C#\aula_3\bin\Debug\net5.0\ref\aula_3.dll
+D:\C#\aula_3\bin\Debug\net5.0\aula_3.pdb
+D:\C#\aula_3\obj\Debug\net5.0\aula_3.csprojAssemblyReference.cache
+D:\C#\aula_3\obj\Debug\net5.0\aula_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\aula_3\obj\Debug\net5.0\aula_3.AssemblyInfoInputs.cache
+D:\C#\aula_3\obj\Debug\net5.0\aula_3.AssemblyInfo.cs
+D:\C#\aula_3\obj\Debug\net5.0\aula_3.csproj.CoreCompileInputs.cache
+D:\C#\aula_3\obj\Debug\net5.0\aula_3.dll
+D:\C#\aula_3\obj\Debug\net5.0\ref\aula_3.dll
+D:\C#\aula_3\obj\Debug\net5.0\aula_3.pdb
+D:\C#\aula_3\obj\Debug\net5.0\aula_3.genruntimeconfig.cache
