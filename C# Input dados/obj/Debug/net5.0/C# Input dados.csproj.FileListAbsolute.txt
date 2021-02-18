@@ -1,0 +1,16 @@
+D:\C#\C# Input dados\obj\Debug\net5.0\C# Input dados.csprojAssemblyReference.cache
+D:\C#\C# Input dados\obj\Debug\net5.0\C# Input dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Input dados\obj\Debug\net5.0\C# Input dados.AssemblyInfoInputs.cache
+D:\C#\C# Input dados\obj\Debug\net5.0\C# Input dados.AssemblyInfo.cs
+D:\C#\C# Input dados\obj\Debug\net5.0\C# Input dados.csproj.CoreCompileInputs.cache
+D:\C#\C# Input dados\bin\Debug\net5.0\C# Input dados.exe
+D:\C#\C# Input dados\bin\Debug\net5.0\C# Input dados.deps.json
+D:\C#\C# Input dados\bin\Debug\net5.0\C# Input dados.runtimeconfig.json
+D:\C#\C# Input dados\bin\Debug\net5.0\C# Input dados.runtimeconfig.dev.json
+D:\C#\C# Input dados\bin\Debug\net5.0\C# Input dados.dll
+D:\C#\C# Input dados\bin\Debug\net5.0\ref\C# Input dados.dll
+D:\C#\C# Input dados\bin\Debug\net5.0\C# Input dados.pdb
+D:\C#\C# Input dados\obj\Debug\net5.0\C# Input dados.dll
+D:\C#\C# Input dados\obj\Debug\net5.0\ref\C# Input dados.dll
+D:\C#\C# Input dados\obj\Debug\net5.0\C# Input dados.pdb
+D:\C#\C# Input dados\obj\Debug\net5.0\C# Input dados.genruntimeconfig.cache

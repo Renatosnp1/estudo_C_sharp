@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C# Escrita em txt\\aula_3.csproj": {}
+    "D:\\C#\\C# Input dados\\C# Input dados.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C# Escrita em txt\\aula_3.csproj": {
+    "D:\\C#\\C# Input dados\\C# Input dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C# Escrita em txt\\aula_3.csproj",
-        "projectName": "aula_3",
-        "projectPath": "D:\\C#\\C# Escrita em txt\\aula_3.csproj",
+        "projectUniqueName": "D:\\C#\\C# Input dados\\C# Input dados.csproj",
+        "projectName": "C# Input dados",
+        "projectPath": "D:\\C#\\C# Input dados\\C# Input dados.csproj",
         "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C# Escrita em txt\\obj\\",
+        "outputPath": "D:\\C#\\C# Input dados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
