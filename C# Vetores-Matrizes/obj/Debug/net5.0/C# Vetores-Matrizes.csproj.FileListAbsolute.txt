@@ -1,0 +1,16 @@
+D:\C#\C# Vetores-Matrizes\bin\Debug\net5.0\C# Vetores-Matrizes.exe
+D:\C#\C# Vetores-Matrizes\bin\Debug\net5.0\C# Vetores-Matrizes.deps.json
+D:\C#\C# Vetores-Matrizes\bin\Debug\net5.0\C# Vetores-Matrizes.runtimeconfig.json
+D:\C#\C# Vetores-Matrizes\bin\Debug\net5.0\C# Vetores-Matrizes.runtimeconfig.dev.json
+D:\C#\C# Vetores-Matrizes\bin\Debug\net5.0\C# Vetores-Matrizes.dll
+D:\C#\C# Vetores-Matrizes\bin\Debug\net5.0\ref\C# Vetores-Matrizes.dll
+D:\C#\C# Vetores-Matrizes\bin\Debug\net5.0\C# Vetores-Matrizes.pdb
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\C# Vetores-Matrizes.csprojAssemblyReference.cache
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\C# Vetores-Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\C# Vetores-Matrizes.AssemblyInfoInputs.cache
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\C# Vetores-Matrizes.AssemblyInfo.cs
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\C# Vetores-Matrizes.csproj.CoreCompileInputs.cache
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\C# Vetores-Matrizes.dll
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\ref\C# Vetores-Matrizes.dll
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\C# Vetores-Matrizes.pdb
+D:\C#\C# Vetores-Matrizes\obj\Debug\net5.0\C# Vetores-Matrizes.genruntimeconfig.cache

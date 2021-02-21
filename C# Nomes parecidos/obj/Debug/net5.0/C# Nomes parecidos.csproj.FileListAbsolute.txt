@@ -1,0 +1,16 @@
+D:\C#\C# Nomes parecidos\bin\Debug\net5.0\C# Nomes parecidos.exe
+D:\C#\C# Nomes parecidos\bin\Debug\net5.0\C# Nomes parecidos.deps.json
+D:\C#\C# Nomes parecidos\bin\Debug\net5.0\C# Nomes parecidos.runtimeconfig.json
+D:\C#\C# Nomes parecidos\bin\Debug\net5.0\C# Nomes parecidos.runtimeconfig.dev.json
+D:\C#\C# Nomes parecidos\bin\Debug\net5.0\C# Nomes parecidos.dll
+D:\C#\C# Nomes parecidos\bin\Debug\net5.0\ref\C# Nomes parecidos.dll
+D:\C#\C# Nomes parecidos\bin\Debug\net5.0\C# Nomes parecidos.pdb
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\C# Nomes parecidos.csprojAssemblyReference.cache
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\C# Nomes parecidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\C# Nomes parecidos.AssemblyInfoInputs.cache
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\C# Nomes parecidos.AssemblyInfo.cs
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\C# Nomes parecidos.csproj.CoreCompileInputs.cache
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\C# Nomes parecidos.dll
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\ref\C# Nomes parecidos.dll
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\C# Nomes parecidos.pdb
+D:\C#\C# Nomes parecidos\obj\Debug\net5.0\C# Nomes parecidos.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#\\C# Conectando MySQL\\C# Conectando MySQL.csproj": {}
+    "D:\\C#\\C# Vetores-Matrizes\\C# Vetores-Matrizes.csproj": {}
   },
   "projects": {
-    "d:\\C#\\C# Conectando MySQL\\C# Conectando MySQL.csproj": {
+    "D:\\C#\\C# Vetores-Matrizes\\C# Vetores-Matrizes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#\\C# Conectando MySQL\\C# Conectando MySQL.csproj",
-        "projectName": "C# Conectando MySQL",
-        "projectPath": "d:\\C#\\C# Conectando MySQL\\C# Conectando MySQL.csproj",
+        "projectUniqueName": "D:\\C#\\C# Vetores-Matrizes\\C# Vetores-Matrizes.csproj",
+        "projectName": "C# Vetores-Matrizes",
+        "projectPath": "D:\\C#\\C# Vetores-Matrizes\\C# Vetores-Matrizes.csproj",
         "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-        "outputPath": "d:\\C#\\C# Conectando MySQL\\obj\\",
+        "outputPath": "D:\\C#\\C# Vetores-Matrizes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "MySqlConnector": {
-              "target": "Package",
-              "version": "[1.2.1, )"
-            },
-            "System.Data.SQLite": {
-              "target": "Package",
-              "version": "[*, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
